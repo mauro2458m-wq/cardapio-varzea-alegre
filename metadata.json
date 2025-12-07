@@ -1,0 +1,5 @@
+{
+  "name": "Várzea Alegre Futebol Clube",
+  "description": "Aplicativo de cardápio digital editável para o Várzea Alegre Futebol Clube, com gerenciamento de pratos, preços e integração para pedidos via WhatsApp.",
+  "requestFramePermissions": []
+}
